@@ -79,4 +79,4 @@ count=0
 for i in d[2:]:
     if i=="1":
         count+=1
-    print(count)
+print(count)
